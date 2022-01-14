@@ -38,6 +38,7 @@ markdown2
 telethon
 telegraph
 heroku3
+loguru
 spamwatch
 alphabet_detector
 pyrate-limiter
